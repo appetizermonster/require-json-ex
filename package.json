@@ -1,0 +1,27 @@
+{
+  "name": "require-json-ex",
+  "version": "1.0.2",
+  "description": "require for json-with-comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appetizermonster/require-json-ex.git"
+  },
+  "keywords": [
+    "json",
+    "require",
+    "json-with-comments"
+  ],
+  "author": "Heejin Lee <monster@teamappetizer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appetizermonster/require-json-ex/issues"
+  },
+  "homepage": "https://github.com/appetizermonster/require-json-ex#readme",
+  "dependencies": {
+    "strip-json-comments": "^2.0.1"
+  }
+}
