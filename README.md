@@ -29,8 +29,5 @@ npm i --save require-json-ex
 ### `requireJSON(path)`
 - **path** String - Absolute or Relative Path like using `require`
 
-## Known Issues
-- Relative path isn't supported if script is running on [Jest](http://facebook.github.io/jest/)
-
 ## License
 MIT
